@@ -9,6 +9,7 @@ An interactive Power BI dashboard that analyzes credit card transactions and cus
 The project uses two related tables:
 
 cc_detail -	Credit card and transaction data
+
 cust_detail - Customer demographic data	
 
 # Tools & Skills Used
