@@ -14,7 +14,11 @@ cust_detail - Customer demographic data
 # Tools & Skills Used
 
 Power BI Desktop – data modeling, DAX, and dashboard design
+
 Power Query – data cleaning and transformation
+
 DAX – calculated columns and measures
+
 MySQL - imported data from a database
+
 Data modeling and relationships, KPI design, interactive filtering
